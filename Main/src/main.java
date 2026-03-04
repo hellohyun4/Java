@@ -26,6 +26,7 @@ public class main {
        				int sum=arr[i]+arr[j]+arr[k];
        				if(sum<=M&&sum>Max) Max = sum;
        				
+       				
        			}
        		}
        	}
